@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<group>
+	<Diff_Threshold>2.8</Diff_Threshold>
+	<Diff_Damping>0.88</Diff_Damping>
+	<CV_Min>108.8</CV_Min>
+	<CV_Max>272</CV_Max>
+	<CV_Thresh>4.75</CV_Thresh>
+	<color>0, 0, 0, 255</color>
+</group>
